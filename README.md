@@ -144,6 +144,3 @@ Wazuh-n8n-Discord-Alerting/
 
 ---
 
-## License
-
-This project is released under the MIT License.
